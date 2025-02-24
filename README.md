@@ -1,1 +1,1 @@
-# restful-booker-api-testing-using-postman
+# restful-booker API tetsing using newman CLI and Postman interface
